@@ -14,5 +14,3 @@ class Solution:
                 r -= 1
         
         return max_w
-
-hello
